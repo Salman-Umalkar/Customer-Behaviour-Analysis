@@ -156,10 +156,10 @@ Customers were segmented into:
 
 # 📷 Dashboard Screenshots
 
-## Main Dashboard
+## Customer Revenue Analysis
 ![Dashboard Screenshot](PASTE_IMAGE_LINK_HERE)
 
-## Product Analysis Dashboard
+## Best - Worst Analysis
 ![Dashboard Screenshot](PASTE_IMAGE_LINK_HERE)
 
 ---
@@ -188,19 +188,6 @@ Business Insights
 - Power BI Dashboard
 - Dataset
 - Project Report
-
----
-
-# 🔗 Project Links
-
-## 📊 Power BI Dashboard
-[Add Power BI Dashboard Link Here](PASTE_LINK_HERE)
-
-## 📄 Project Report
-[Add Report Link Here](PASTE_LINK_HERE)
-
-## 💻 GitHub Repository
-[Add GitHub Repository Link Here](PASTE_LINK_HERE)
 
 ---
 
