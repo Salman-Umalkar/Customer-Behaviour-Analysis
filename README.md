@@ -157,10 +157,10 @@ Customers were segmented into:
 # 📷 Dashboard Screenshots
 
 ## Customer Revenue Analysis
-![Dashboard Screenshot](PASTE_IMAGE_LINK_HERE)
+![Dashboard Screenshot](https://github.com/Salman-Umalkar/Customer-Behaviour-Analysis/blob/main/Customer%20Revenue%20Analysis.png)
 
 ## Best - Worst Analysis
-![Dashboard Screenshot](PASTE_IMAGE_LINK_HERE)
+![Dashboard Screenshot]()
 
 ---
 
